@@ -10,5 +10,5 @@ This project uses a real-world dataset from Analytics Vidhya to build a predicti
 * Deploy the best-performing model (Random Forest Regressor)
 
 
-> Outcome
+> Outcome:
 The final model accurately predicts customer spending and can be used for personalized marketing strategies, improving sales forecasting, and customer segmentation.
