@@ -7,7 +7,7 @@ This project uses a real-world dataset from Analytics Vidhya to build a predicti
 * Preprocess and encode categorical variables
 * Build and compare multiple regression models
 * Evaluate model performance using RMSE and R²
-* Deploy the best-performing model (Random Forest Regressor)
+* Deploy the best-performing model (XGBoost)
 
 
 > Outcome:
