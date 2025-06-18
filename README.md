@@ -1,4 +1,5 @@
 > Black Friday Sales Prediction:
+> 
 > Project Objective
 >   
 This project aims to build a machine learning model to predict the purchase amount of customers during Black Friday sales using demographic and transaction data. The objective is to help businesses understand purchase behavior and make informed decisions in personalized marketing and inventory planning.
